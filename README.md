@@ -3,4 +3,6 @@
 
 My first git learn.
 
-hello everyone ！
+how to merg
+
+
